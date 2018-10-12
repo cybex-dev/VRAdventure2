@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TypeDate>
+    <guid>19bbeb00ce8acfb498351c4aa7160270</guid>
+    <fileName>Assets/Attach.cs</fileName>
+    <timeStamp>2018-08-16T18:38:50.0570268+02:00</timeStamp>
+    <typeFullName>
+      <string>Attach</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7fddc24889c9df4aac4b0ab4271319f</guid>
+    <fileName>Assets/Attack.cs</fileName>
+    <timeStamp>2018-08-20T02:28:02.8540445+02:00</timeStamp>
+    <typeFullName>
+      <string>Attack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bba5d4b4af9d44742ade3fbbfadabbc4</guid>
+    <fileName>Assets/EquipableDetector.cs</fileName>
+    <timeStamp>2018-08-20T03:17:39.0977861+02:00</timeStamp>
+    <typeFullName>
+      <string>EquipableDetector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5b7f01e0931a0a4eae31ee980010b46</guid>
+    <fileName>Assets/FortressController.cs</fileName>
+    <timeStamp>2018-08-20T02:11:23.1197194+02:00</timeStamp>
+    <typeFullName>
+      <string>FortressController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5dd7e7ebf50b5a43965c5bb28b7ef89</guid>
+    <fileName>Assets/GoblinController.cs</fileName>
+    <timeStamp>2018-08-19T21:59:26.1904926+02:00</timeStamp>
+    <typeFullName>
+      <string>GoblinController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4afb7e3f77a0b649bd2085dcc4ea592</guid>
+    <fileName>Assets/Health.cs</fileName>
+    <timeStamp>2018-08-20T02:53:15.4893681+02:00</timeStamp>
+    <typeFullName>
+      <string>Health</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a63c8fee2d3c3bc4daab0ffa76941566</guid>
+    <fileName>Assets/Illuminate.cs</fileName>
+    <timeStamp>2018-08-20T03:17:44.5229553+02:00</timeStamp>
+    <typeFullName>
+      <string>Illuminate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bab6f7a0e55dd844b8af4a07fbaaf8e</guid>
+    <fileName>Assets/InteractableDetector.cs</fileName>
+    <timeStamp>2018-08-20T02:16:46.6682635+02:00</timeStamp>
+    <typeFullName>
+      <string>InteractableDetector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eded3be26cdb8d74ca56473ff310fa65</guid>
+    <fileName>Assets/pickup.cs</fileName>
+    <timeStamp>2018-08-16T12:49:52.3350012+02:00</timeStamp>
+    <typeFullName>
+      <string>pickup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38927c45b9775594a8e5bdced9ae5fe4</guid>
+    <fileName>Assets/3rdParty/Consolation/Console.cs</fileName>
+    <timeStamp>2018-05-21T09:29:04+02:00</timeStamp>
+    <typeFullName>
+      <string>Consolation.Console</string>
+      <string>Consolation.Log</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0660cf57ad6caa4b8a8859d689e9a23</guid>
+    <fileName>Assets/AssetImporter/Editor/AssetImporterWindow.cs</fileName>
+    <timeStamp>2013-06-12T00:50:51+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetImporterWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>64453b1d0da08064ea777395b4c91ba5</guid>
+    <fileName>Assets/CursorsAndCrosshairs/CursorChanger.cs</fileName>
+    <timeStamp>2018-02-11T23:15:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CursorChanger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>87f2c0ffe03c2e4489163402db1cd135</guid>
+    <fileName>Assets/Demo/Scripts/ClientGONetworkedController.cs</fileName>
+    <timeStamp>2018-07-27T11:31:19.3737791+02:00</timeStamp>
+    <typeFullName>
+      <string>ClientGONetworkedController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4b941789231449241b0499c09c4a8d02</guid>
+    <fileName>Assets/Demo/Scripts/HostGONetworkedController.cs</fileName>
+    <timeStamp>2018-07-27T11:35:51.2744181+02:00</timeStamp>
+    <typeFullName>
+      <string>HostGONetworkedController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0237296e2e84db45a9d3919e14b0a05</guid>
+    <fileName>Assets/Demo/Scripts/NetworkSetup.cs</fileName>
+    <timeStamp>2018-07-27T11:35:33.0357102+02:00</timeStamp>
+    <typeFullName>
+      <string>NetworkSetup</string>
+      <string>NetworkSetup+NetworkMessage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b536e216bbd27d458fd574b3bcccea4</guid>
+    <fileName>Assets/Dynamic Flickering Light/FlickeringLight.cs</fileName>
+    <timeStamp>2016-06-07T01:05:05+02:00</timeStamp>
+    <typeFullName>
+      <string>FlickeringLight</string>
+      <string>FlickeringLight+MainLoop</string>
+      <string>MyScriptEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd3eba68a15baa546b2502092fbe295f</guid>
+    <fileName>Assets/EasyPolyMap/Code/EPMMaterialAgent.cs</fileName>
+    <timeStamp>2017-04-21T06:53:41+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMMaterialAgent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6ae45f8dba053244b5288744c04b722</guid>
+    <fileName>Assets/EasyPolyMap/Code/EPMObjExporter.cs</fileName>
+    <timeStamp>2017-04-21T06:53:43+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMObjExporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3758e1ddcad11e34ca246c3e16755dfc</guid>
+    <fileName>Assets/EasyPolyMap/Code/EPMPolyTerrainCreator.cs</fileName>
+    <timeStamp>2017-04-21T06:53:35+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMPolyTerrainCreator</string>
+      <string>EasyPolyMap.EPMPolyTerrainCreator+CustomData</string>
+      <string>EasyPolyMap.EPMPolyTerrainCreator+HeightSampleData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2913762f164ad845ade584e8c0f3a11</guid>
+    <fileName>Assets/EasyPolyMap/Code/EPMPreDefinedTools.cs</fileName>
+    <timeStamp>2017-04-21T06:53:42+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMPreDefinedTools</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7a5b126eee57e804cb7bd4bf752c8f08</guid>
+    <fileName>Assets/EasyPolyMap/Demos/EPMDemoCharacterController.cs</fileName>
+    <timeStamp>2018-08-12T12:03:21.9910985+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMDemoCharacterController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>225177511babc434cbf81eb4691651e4</guid>
+    <fileName>Assets/EasyPolyMap/Demos/EPMDemoScene.cs</fileName>
+    <timeStamp>2017-04-21T06:53:34+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMDemoScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11ffcd078364c254f917537d2cde4c97</guid>
+    <fileName>Assets/EasyPolyMap/Editor/EPMDrawMapWindow.cs</fileName>
+    <timeStamp>2017-04-21T06:53:33+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMDrawMapWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90d9221704576f347b4c7b482b0955a0</guid>
+    <fileName>Assets/EasyPolyMap/Editor/EPMPolyTerrainCreatorInspector.cs</fileName>
+    <timeStamp>2017-04-21T06:53:39+02:00</timeStamp>
+    <typeFullName>
+      <string>EasyPolyMap.EPMPolyTerrainCreatorInspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>661595340e84ef64b9c28096a9dcafed</guid>
+    <fileName>Assets/LowPoly Fantasy Monsters Pack Ver1.0_Demo/Environment/Scripts/Move.cs</fileName>
+    <timeStamp>2017-12-15T13:31:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Move</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d36cd61498604e14abcf4aa2de30bef6</guid>
+    <fileName>Assets/LowPoly Fantasy Monsters Pack Ver1.0_Demo/Environment/Scripts/PointLight.cs</fileName>
+    <timeStamp>2017-12-15T13:32:29+02:00</timeStamp>
+    <typeFullName>
+      <string>PointLight</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c6a6df342b52d24092cf6bbb590c535</guid>
+    <fileName>Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs</fileName>
+    <timeStamp>2017-12-20T18:28:50+02:00</timeStamp>
+    <typeFullName>
+      <string>LowPolyWater.LowPolyWater</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6fe99e92f179e48498503818d15ac6aa</guid>
+    <fileName>Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs</fileName>
+    <timeStamp>2017-12-20T18:28:59+02:00</timeStamp>
+    <typeFullName>
+      <string>LowPolyWater.GeneratePlane</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0cab480164eba845afa1d4d53d24dfd</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Extra/Scripts/InputLabel.cs</fileName>
+    <timeStamp>2017-12-22T01:04:32+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.InputLabel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e87675fe9c867174a9b33ff693d671e1</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Extra/Scripts/Teleporter.cs</fileName>
+    <timeStamp>2017-12-22T01:04:50+02:00</timeStamp>
+    <typeFullName>
+      <string>Teleporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bf3b1fe8e559744781b795faa8817fa</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/ControllerStatesDataTemplate.cs</fileName>
+    <timeStamp>2017-12-22T01:04:10+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.IControllerStatesDataTemplate`1</string>
+      <string>ARFC.ControllerStatesDataTemplate`1</string>
+      <string>ARFC.ControllerStatesScriptableObjectTemplate`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a65d8cb6c925ec4691e50618c44fe36</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/TypesData.cs</fileName>
+    <timeStamp>2017-12-22T01:04:17+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.BaseTypesData</string>
+      <string>ARFC.BaseTypesData+TFPController</string>
+      <string>ARFC.TypesData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c21a0d4b762c6e841975ea70de002d4a</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Controller/FPController.cs</fileName>
+    <timeStamp>2018-08-20T03:36:55.99609+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.BaseFPController</string>
+      <string>ARFC.BaseFPController+ButtonInputMode</string>
+      <string>ARFC.BaseFPController+BaseCastModule</string>
+      <string>ARFC.BaseFPController+BaseModule</string>
+      <string>ARFC.BaseFPController+ControllerInitMode</string>
+      <string>ARFC.BaseFPController+StateChangeDelegate</string>
+      <string>ARFC.BaseFPController+BaseControllerHeadbobModule</string>
+      <string>ARFC.BaseFPController+BaseControllerLeanModule</string>
+      <string>ARFC.BaseFPController+BaseControllerLookModule</string>
+      <string>ARFC.BaseFPController+BaseCameraRigModule</string>
+      <string>ARFC.BaseFPController+BaseSoundModule</string>
+      <string>ARFC.BaseFPController+BaseRoofCastModule</string>
+      <string>ARFC.BaseFPController+ControllerLandingData</string>
+      <string>ARFC.BaseFPController+BaseGroundCastModule</string>
+      <string>ARFC.BaseFPController+BaseJumpModule</string>
+      <string>ARFC.BaseFPController+BaseSlideModule</string>
+      <string>ARFC.BaseFPController+ControllerStateData</string>
+      <string>ARFC.BaseFPController+BaseStatesModule</string>
+      <string>ARFC.BaseFPController+BaseMovementModule</string>
+      <string>ARFC.BaseFPController+BaseConstraintsData</string>
+      <string>ARFC.BaseFPController+BaseModuleManager</string>
+      <string>ARFC.FPController</string>
+      <string>ARFC.FPController+HeadbobModule</string>
+      <string>ARFC.FPController+LeanModule</string>
+      <string>ARFC.FPController+LookModule</string>
+      <string>ARFC.FPController+CameraRigModule</string>
+      <string>ARFC.FPController+SoundModule</string>
+      <string>ARFC.FPController+RoofCastModule</string>
+      <string>ARFC.FPController+GroundCastModule</string>
+      <string>ARFC.FPController+CastModule</string>
+      <string>ARFC.FPController+JumpModule</string>
+      <string>ARFC.FPController+SlideModule</string>
+      <string>ARFC.FPController+StatesModule</string>
+      <string>ARFC.FPController+MovementModule</string>
+      <string>ARFC.FPController+ConstraintsData</string>
+      <string>ARFC.FPController+Module</string>
+      <string>ARFC.FPController+ModuleManager</string>
+      <string>ARFC.ControllerState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d910b6b317fdd44f993764e788dd71b</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Controller/Input/FPControllerInputModulator.cs</fileName>
+    <timeStamp>2017-12-22T01:03:33+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.FPControllerInputModulator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80f5a306a4362ae479432455ed0a03c0</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Controller/Input/FPControllerInputModule.cs</fileName>
+    <timeStamp>2017-12-22T01:04:10+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.BaseFPControllerInputModule</string>
+      <string>ARFC.FPControllerInputModule</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>46a46b2692024a345a7bb1f2cf9bc1f9</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Controller/Input/FPControllerKeyInput.cs</fileName>
+    <timeStamp>2017-12-22T01:03:49+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.FPControllerKeyInput</string>
+      <string>ARFC.RawkeyCodeAxis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e617845891365f447988aba5874b039b</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/HeadBob/ControllerHeadBobStates.cs</fileName>
+    <timeStamp>2017-12-22T01:04:49+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.IControllerHeadBobStates</string>
+      <string>ARFC.ControllerHeadBobStates</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d267a09aaebe6746a62e0f3dba3ecd2</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/HeadBob/HeadBobData.cs</fileName>
+    <timeStamp>2017-12-22T01:04:08+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.HeadBobData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19aef01160209e140a675232cbf1dd9b</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Sound/ControllerSoundStates.cs</fileName>
+    <timeStamp>2017-12-22T01:03:29+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.IControllerSoundStates</string>
+      <string>ARFC.ControllerSoundStates</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38689f561357fdb49bd2dd1d05e99414</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Sound/Sound Surface/SoundSurface.cs</fileName>
+    <timeStamp>2017-12-22T01:03:44+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.SoundSurface</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d1247a1d3ac06404e97807ea4db9427a</guid>
+    <fileName>Assets/Moe Baker/Advanced Rigidbody FirstPerson Controller/Scripts/Sound/Sound Surface/TerrainSoundSurface.cs</fileName>
+    <timeStamp>2017-12-22T01:04:41+02:00</timeStamp>
+    <typeFullName>
+      <string>ARFC.TerrainSoundSurface</string>
+      <string>ARFC.TerrainSoundSurface+Inspector</string>
+      <string>ARFC.TerrainSoundSurface+TerrainControllerSoundsSet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb53deea4dac4f44a510645697e6949</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/MoeTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:47+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17c45e1d4d6edb644b7f4f2deba49ec0</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/ConstantsTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:29+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>545215f0bd4fa4b4ea9ab28eb2bffbf4</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/ConvertionTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:56+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e301b7343fc82ac4f8cce7afbb6a7b3d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/DictionaryTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:47+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>343e0088b5ffce94a857937e1e999128</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/EnumTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:43+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e414e631f70a1ce4492bf6dcfc3971f9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/GameObjectTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:47+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c5ea31ea958ca946ba782ee076fb561</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/InputTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff02c565c880d7d499e831e334297cfd</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/ListTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>379395b7bf804cc44b861547f54982ce</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/MathTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:44+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6023bc2f13ffc574faf0ff1dceecf7db</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/PlatformTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.GameTargetPlatform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c3074dfe81ee0e4687405b10d599d25</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/RandomTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:25+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae02bb027da08e947a81e84d9684233f</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/ReflectionTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:31+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67b8ab0ae88eca04c8e2e21b827c583b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/SceneTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:06+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8dfaf2437e7751f4a9f460591d276c06</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/SerializationTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82ec7125719d9644a8c8b356139ed6a4</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/StringTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:11+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6db8d11909eddc5419bf30ea142a09d4</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/TransformTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:08+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d07aab12c816c57428af88b2cca781a2</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Tools/VectorTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:41+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57cbda65bc1f8014f867c0af059ab76b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/BasicCursor.cs</fileName>
+    <timeStamp>2017-12-22T01:03:58+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BasicCursor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a4a980cfed7002479f526b6b82b7b7f</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/MultiTag.cs</fileName>
+    <timeStamp>2017-12-22T01:03:30+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MultiTag</string>
+      <string>Moe.Tools.MultiTag+Inspector</string>
+      <string>Moe.Tools.MultiTagTools</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bcc18283315c76943acb65191f3c96e0</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/ValueEvent.cs</fileName>
+    <timeStamp>2017-12-22T01:04:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ValueEvent</string>
+      <string>Moe.Tools.ValueEvent+Drawer</string>
+      <string>Moe.Tools.ValueEvent`1</string>
+      <string>Moe.Tools.ValueEvent`1+ValueChangedComplex</string>
+      <string>Moe.Tools.ValueEvent`1+ValueChangedSimple</string>
+      <string>Moe.Tools.BoolValueEvent</string>
+      <string>Moe.Tools.IntValueEvent</string>
+      <string>Moe.Tools.FloatValueEvent</string>
+      <string>Moe.Tools.CharValueEvent</string>
+      <string>Moe.Tools.StringValueEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ee80673c40b950948b0a737fd82f1a06</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Animator/AnimatorEventRewind.cs</fileName>
+    <timeStamp>2017-12-22T01:04:53+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AnimatorEventRewind</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11096133fd3d7c14a8f8af1138e8d835</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Animator/StateMachineCallbackRewind.cs</fileName>
+    <timeStamp>2017-12-22T01:03:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.StateMachineCallbackRewind</string>
+      <string>Moe.Tools.StateMachineCallbackRewind+StateMachineEventData</string>
+      <string>Moe.Tools.StateMachineCallbackRewind+StateEventData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91c20da46d5234540905e505d32f1c66</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Animator/UStateMachine.cs</fileName>
+    <timeStamp>2017-12-22T01:04:20+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.UStateMachine</string>
+      <string>Moe.Tools.UStateMachineExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a48c19a2abc44fe4e9bffc1011087d48</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/BoolController.cs</fileName>
+    <timeStamp>2017-12-22T01:04:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BoolController</string>
+      <string>Moe.Tools.BoolController`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>87d3130bfc34dd24db57a15df4de533a</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/BoolItem.cs</fileName>
+    <timeStamp>2017-12-22T01:04:14+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BoolItem</string>
+      <string>Moe.Tools.BoolItem`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6265d64d8b1a70042813e27110469ff9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/IBoolItem.cs</fileName>
+    <timeStamp>2017-12-22T01:04:02+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.IBoolItem</string>
+      <string>Moe.Tools.IBoolItem`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e9364fd58b11ae4fac1036e3079ab1f</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/Auto Bool/AutoBoolBehaviour.cs</fileName>
+    <timeStamp>2017-12-22T01:03:53+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AutoBoolBehaviour</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4b77dd03374683b4cb47519eaee43a8b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/Auto Bool/AutoBoolController.cs</fileName>
+    <timeStamp>2017-12-22T01:03:51+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AutoBoolController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2c149769cffc4f46ad147746dec2d69</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Booling/Auto Bool/AutoBoolItem.cs</fileName>
+    <timeStamp>2017-12-22T01:04:26+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AutoBoolItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>174758cf1db5cf749bcefd5b4e7feb1b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/AutoResource.cs</fileName>
+    <timeStamp>2017-12-22T01:03:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AutoResource`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>243d1e4bf6f74cb48a9fa29059013522</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Coordinates.cs</fileName>
+    <timeStamp>2017-12-22T01:03:36+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.Coordinates</string>
+      <string>Moe.Tools.CoordinatesTools</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97eea66962a6c5543ade0b32c9740a97</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/GameScene.cs</fileName>
+    <timeStamp>2017-12-22T01:04:22+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.GameScene</string>
+      <string>Moe.Tools.GameScene+Drawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a690ede084f8e44d9dab247f09d3c81</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/ListEnumerator.cs</fileName>
+    <timeStamp>2017-12-22T01:04:17+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ListEnumerator`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16c275721c8595c42a2de8f42d510d33</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/ListIndexer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ListIndexer`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ce8e421c9260f149bdd1aa404b27d48</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/ModuleFramework.cs</fileName>
+    <timeStamp>2017-12-22T01:03:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeModule</string>
+      <string>Moe.Tools.MoeModuleManager`1</string>
+      <string>Moe.Tools.MoeLinkedModule`1</string>
+      <string>Moe.Tools.MoeLinkedModuleManager`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b3a7d2ff6beb9245bfeb08fb394e381</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/PlayerPrefsX.cs</fileName>
+    <timeStamp>2017-12-22T01:03:30+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.PlayerPrefsX</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6852392aa8caa2e47913d1acb9d84934</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/ScriptableResourceObject.cs</fileName>
+    <timeStamp>2017-12-22T01:04:06+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ScriptableResourceObject`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bcd57e2d6b5775c4898b6866d8842a4d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Numerical/DualInt.cs</fileName>
+    <timeStamp>2017-12-22T01:04:35+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.DualInt</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03ce9da0026ca334699e0c06bd9ea7f3</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Numerical/IRange.cs</fileName>
+    <timeStamp>2017-12-22T01:03:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.IRange`1</string>
+      <string>Moe.Tools.IIntRange</string>
+      <string>Moe.Tools.IFloatRange</string>
+      <string>Moe.Tools.IRangeExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dda4767b1694a3b4794e6c4fcb148c3e</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Numerical/MaxValue.cs</fileName>
+    <timeStamp>2017-12-22T01:04:44+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MaxValue`1</string>
+      <string>Moe.Tools.MaxIntValue</string>
+      <string>Moe.Tools.MaxFloatValue</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a792bc9ed12426c47b6e7592f5bec454</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Numerical/SmoothValues.cs</fileName>
+    <timeStamp>2017-12-22T01:04:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SmoothValue</string>
+      <string>Moe.Tools.TargetSmoothValue</string>
+      <string>Moe.Tools.RangedSmoothValueBase</string>
+      <string>Moe.Tools.RangedSmoothValue`1</string>
+      <string>Moe.Tools.RangedSmoothValue</string>
+      <string>Moe.Tools.MaxSmoothValue</string>
+      <string>Moe.Tools.ScaleSmoothValue</string>
+      <string>Moe.Tools.BaseAxisSmoothValue</string>
+      <string>Moe.Tools.AxisSmoothValue</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d48a6a7933520054ab87e7813ad8ce60</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Numerical/ValueRange.cs</fileName>
+    <timeStamp>2017-12-22T01:04:42+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ValueRange`1</string>
+      <string>Moe.Tools.IntValueRange</string>
+      <string>Moe.Tools.FloatValueRange</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bdb1e54734146844cb45ab225c9c6818</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Scriptable Objects/ScriptableObjectSingelton.cs</fileName>
+    <timeStamp>2017-12-22T01:04:35+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ScriptableObjectSingelton`1</string>
+      <string>Moe.Tools.SingeltonResource`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a03a67a0918b3f743a15b9f847416d4a</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/Scriptable Objects/SoundSet.cs</fileName>
+    <timeStamp>2017-12-22T01:04:25+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SoundSet</string>
+      <string>Moe.Tools.SoundSet+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3cbd4199c1cc3b4fa2740b409779571</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Base/SerializableUCType.cs</fileName>
+    <timeStamp>2017-12-22T01:04:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SerializableUCType`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>81903c9c78152f54091997a236f608a6</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Color/SCColor.cs</fileName>
+    <timeStamp>2017-12-22T01:04:11+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a34b8deee56cdc649ad0204c1ee34360</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Color/SSColor.cs</fileName>
+    <timeStamp>2017-12-22T01:04:26+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c14746301021d1846aabeacc16e0407a</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Quaternion/SCQuaternion.cs</fileName>
+    <timeStamp>2017-12-22T01:04:36+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCQuaternion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d89fe1cffe81de54aa36d007a9c86e0a</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Quaternion/SSQuaternion.cs</fileName>
+    <timeStamp>2017-12-22T01:04:43+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSQuaternion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1a5eba7d57f165499534af578eeaf2b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Resolution/SCResolution.cs</fileName>
+    <timeStamp>2017-12-22T01:04:37+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCResolution</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d18b885c077b0184aa956cb7190500b6</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Resolution/SSResolution.cs</fileName>
+    <timeStamp>2017-12-22T01:04:41+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSResolution</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0ecbe3bec8842c40b39b19200ebc2c9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector2/SCVector2.cs</fileName>
+    <timeStamp>2017-12-22T01:04:54+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCVector2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a60ecd0eaec2464381aba66e15d015d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector2/SSVector2.cs</fileName>
+    <timeStamp>2017-12-22T01:03:25+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSVector2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>833b11e17e96bf04991ef8abffb0cc95</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector3/SCVector3.cs</fileName>
+    <timeStamp>2017-12-22T01:04:12+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCVector3</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56a562f8d75b2764197f82520b9444e3</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector3/SSVector3.cs</fileName>
+    <timeStamp>2017-12-22T01:03:56+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSVector3</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddc7091cb96387f4499c2e29046764c0</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector4/SCVector4.cs</fileName>
+    <timeStamp>2017-12-22T01:04:44+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SCVector4</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ccffa36996b79b943845837a2e8df2bb</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Data/UT Serializable/Vector4/SSVector4.cs</fileName>
+    <timeStamp>2017-12-22T01:04:40+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SSVector4</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fabcd4ed67aade04dbc0384663f225c9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Input/KeyCodeList.cs</fileName>
+    <timeStamp>2017-12-22T01:04:58+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.KeyCodeList</string>
+      <string>Moe.Tools.KeyCodeList+Drawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88bbfe4dab46da643ab7bda4ced4b26f</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Input/Input Modulator/InputModulator.cs</fileName>
+    <timeStamp>2017-12-22T01:04:15+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InputModulator</string>
+      <string>Moe.Tools.InputModulator+DeployablePlatform</string>
+      <string>Moe.Tools.InputModulator+Inspector</string>
+      <string>Moe.Tools.IInputModulator</string>
+      <string>Moe.Tools.IInputModulator`1</string>
+      <string>Moe.Tools.InputModulator`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ab4cb162f6e7614fb3170898ce53adb</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Input/Input Modulator/InputModule.cs</fileName>
+    <timeStamp>2017-12-22T01:03:51+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InputModule</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8bd0cc40721aca49bcfc2f25c9f20cb</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/BoundsCheckArea.cs</fileName>
+    <timeStamp>2017-12-22T01:04:57+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BoundsCheckArea</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>542c7af1c5b132742a8d5d79c33e123b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/CenterOfMass.cs</fileName>
+    <timeStamp>2017-12-22T01:03:55+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.CenterOfMass</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>218836a0cd03b424298e42d24833ab33</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/CollisionIgnoreController.cs</fileName>
+    <timeStamp>2017-12-22T01:03:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.CollisionIgnoreController</string>
+      <string>Moe.Tools.CollisionIgnoreController+SetData</string>
+      <string>Moe.Tools.CollisionIgnoreController+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6928029d382fe9d4e937527f8e4c1044</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/CollisionReWind.cs</fileName>
+    <timeStamp>2017-12-22T01:04:07+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.CollisionReWind</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9878af3ed6c7b945a0d7028c7cd78a9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/DestroyZone.cs</fileName>
+    <timeStamp>2017-12-22T01:04:57+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.DestroyZone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a79a4400685098642a68b3333fd7ddd3</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/Explosion.cs</fileName>
+    <timeStamp>2017-12-22T01:04:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.Explosion</string>
+      <string>Moe.Tools.Explosion+AddForceDelegate</string>
+      <string>Moe.Tools.Explosion+ForceData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33f58ffa30527854683bfea3a48f2850</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/PhysicsCheckController.cs</fileName>
+    <timeStamp>2017-12-22T01:03:42+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BasePhysicsCheckController`2</string>
+      <string>Moe.Tools.PhysicsCheckController</string>
+      <string>Moe.Tools.PhysicsHashCheckController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66a5db416aa352a43b8863d634832fb2</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Physics/TriggerReWind.cs</fileName>
+    <timeStamp>2017-12-22T01:04:05+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TriggerReWind</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbc7329d72f80214990c3f1212d1db19</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Processing/AutoCoroutine.cs</fileName>
+    <timeStamp>2017-12-22T01:04:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AutoCoroutine</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d4c766fff70e44469735acf23a22517</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Processing/BoundsCalculator.cs</fileName>
+    <timeStamp>2017-12-22T01:03:32+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BoundsCalculator</string>
+      <string>Moe.Tools.BoundsCalculator+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de825ae14a7c3c0458e31953cab88932</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Processing/DestroyAfter.cs</fileName>
+    <timeStamp>2017-12-22T01:04:45+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.DestroyAfter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab668c8592d45004da137edd0fdedcb0</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Processing/Dispatcher System/UnityDispatcher.cs</fileName>
+    <timeStamp>2017-12-22T01:04:30+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseUnityDispatcher</string>
+      <string>Moe.Tools.BaseUnityDispatcher+EventController`1</string>
+      <string>Moe.Tools.BaseUnityDispatcher+IOnGUI</string>
+      <string>Moe.Tools.BaseUnityDispatcher+OnGUIEventController</string>
+      <string>Moe.Tools.BaseUnityDispatcher+ILateUpdate</string>
+      <string>Moe.Tools.BaseUnityDispatcher+LateUpdateEventController</string>
+      <string>Moe.Tools.BaseUnityDispatcher+IFixedUpdate</string>
+      <string>Moe.Tools.BaseUnityDispatcher+FixedUpdateEventController</string>
+      <string>Moe.Tools.BaseUnityDispatcher+IUpdate</string>
+      <string>Moe.Tools.BaseUnityDispatcher+UpdateEventController</string>
+      <string>Moe.Tools.UnityDispatcher</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3e5719c221315e34aa9866a9abdf351e</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Trash/GameTrash.cs</fileName>
+    <timeStamp>2017-12-22T01:03:46+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.GameTrash</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fece6a05cc8ad6d43a596f00f09c70e6</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Trash/TrashItem.cs</fileName>
+    <timeStamp>2017-12-22T01:04:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TrashItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8049676119fa704281d51aaa0f0f678</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/Trash/TrashList.cs</fileName>
+    <timeStamp>2017-12-22T01:04:57+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TrashList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>322472b5308998441a4605292608f2fe</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/LoadSceneButton.cs</fileName>
+    <timeStamp>2017-12-22T01:03:41+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.LoadSceneButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe182798bb92f434d8ca1e97dd31410b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/ScrollRectSelector.cs</fileName>
+    <timeStamp>2017-12-22T01:04:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ScrollRectSelector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49f97894b83fcfd4aae2dfa0b3bd7c1b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/TransparencyController.cs</fileName>
+    <timeStamp>2017-12-22T01:03:50+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TransparencyController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7ce388d9a2e93e46a2fa8bbf1bab2ee</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/URLButton.cs</fileName>
+    <timeStamp>2017-12-22T01:04:39+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.URLButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4b077efe5be3ff4db09823335329da1</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Input Field Slider/FloatInputFieldSlider.cs</fileName>
+    <timeStamp>2017-12-22T01:04:33+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.FloatInputFieldSlider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38fff3495f93f6841abac14a5a61fa72</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Input Field Slider/InputFieldSlider.cs</fileName>
+    <timeStamp>2017-12-22T01:03:45+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InputFieldSlider`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0867e1760a1e104c8fce98010875648</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Input Field Slider/IntInputFieldSlider.cs</fileName>
+    <timeStamp>2017-12-22T01:04:25+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.IntInputFieldSlider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fe1c382aa1303642bd6a1d61b5eb293</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Layout Seperator/LayoutSeperator.cs</fileName>
+    <timeStamp>2017-12-22T01:03:54+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.LayoutSeperator</string>
+      <string>Moe.Tools.LayoutSeperator+LayoutType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26a2f63a4fb9f0d4c9a6ae70131e9d2e</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Layout Seperator/LayoutSeperatorElement.cs</fileName>
+    <timeStamp>2017-12-22T01:03:36+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.LayoutSeperatorElement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83b948e6ab98326429c6cbfd5a71dbd1</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Options Box/OptionsBox.cs</fileName>
+    <timeStamp>2017-12-22T01:04:12+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.OptionsBox</string>
+      <string>Moe.Tools.OptionsBox+Tools</string>
+      <string>Moe.Tools.OptionsBox+OptionBoxEvent</string>
+      <string>Moe.Tools.OptionsBox+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9cc2b690c63589b4eb5885b0ca0c7312</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Options Box/OptionsBoxArrow.cs</fileName>
+    <timeStamp>2017-12-22T01:04:24+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.OptionsBoxArrow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>041e3e81ea825c6499d273a70baa0963</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Tab Menu/TabButton.cs</fileName>
+    <timeStamp>2017-12-22T01:03:24+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TabButton</string>
+      <string>Moe.Tools.TabButton+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>583ae2fcae25207418ac02aef59c7942</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/Tab Menu/TabMenu.cs</fileName>
+    <timeStamp>2017-12-22T01:03:58+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TabMenu</string>
+      <string>Moe.Tools.TabMenu+Tab</string>
+      <string>Moe.Tools.TabMenu+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41e55011a1e4f8042b3c7f9d692e32cb</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/UI Creator/TemplateListUICreator.cs</fileName>
+    <timeStamp>2017-12-22T01:03:48+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseTemplateListUICreator`2</string>
+      <string>Moe.Tools.TemplateListUICreator`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7fbd18601e45a144aaca421c65a888c6</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/UI Creator/TemplateUICreator.cs</fileName>
+    <timeStamp>2017-12-22T01:04:10+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseTemplateUICreator`2</string>
+      <string>Moe.Tools.TemplateUICreator`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0f055e9b473d9b41aeab6f4c20bdab0</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/UI Creator/UICreator.cs</fileName>
+    <timeStamp>2017-12-22T01:04:55+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseUICreator</string>
+      <string>Moe.Tools.BaseUICreator`1</string>
+      <string>Moe.Tools.UICreator`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>023deb37f95e09e45934b9d892a80423</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/UI Creator/UI Template/AutoCallbackUITemplate.cs</fileName>
+    <timeStamp>2017-12-22T01:03:23+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.IAutoCallbackUITemplate`2</string>
+      <string>Moe.Tools.AutoCallbackUITemplate`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>251826705eee7e44badbd003cee0592d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/Standalone/Utility/UI/UI Creator/UI Template/UITemplate.cs</fileName>
+    <timeStamp>2017-12-22T01:03:36+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.IUITemplate</string>
+      <string>Moe.Tools.IUITemplate`1</string>
+      <string>Moe.Tools.UITemplate</string>
+      <string>Moe.Tools.UITemplate`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>64f743a5c134dc047b437bafb4747c8c</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Tools/EditorTools.cs</fileName>
+    <timeStamp>2017-12-22T01:04:04+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>201c6ad2d02494c41b0060084958e24d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Tools/InspectorTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoeTools</string>
+      <string>Moe.Tools.MoeTools+Vector</string>
+      <string>Moe.Tools.MoeTools+Transform</string>
+      <string>Moe.Tools.MoeTools+String</string>
+      <string>Moe.Tools.MoeTools+Serialization</string>
+      <string>Moe.Tools.MoeTools+Scene</string>
+      <string>Moe.Tools.MoeTools+Reflection</string>
+      <string>Moe.Tools.MoeTools+Random</string>
+      <string>Moe.Tools.MoeTools+Platform</string>
+      <string>Moe.Tools.MoeTools+Math</string>
+      <string>Moe.Tools.MoeTools+List</string>
+      <string>Moe.Tools.MoeTools+Input</string>
+      <string>Moe.Tools.MoeTools+GameObject</string>
+      <string>Moe.Tools.MoeTools+Enum</string>
+      <string>Moe.Tools.MoeTools+Ditctionary</string>
+      <string>Moe.Tools.MoeTools+Convertion</string>
+      <string>Moe.Tools.MoeTools+Constants</string>
+      <string>Moe.Tools.MoeTools+Inspector</string>
+      <string>Moe.Tools.MoeTools+Editor</string>
+      <string>Moe.Tools.MoeToolsExtensionMethods</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e70d5f3ce9032884bafff3fb485b2448</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/AdvancedAssetPostprocessorToolkit.cs</fileName>
+    <timeStamp>2017-12-22T01:04:49+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+ActivationMode</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+Settings`1</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+Settings</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+Window`1</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+Window</string>
+      <string>Moe.Tools.AdvancedAssetPostprocessorToolkit+PostPorcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8179bd8f2812bef45873eaf7b6913490</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/AssetExporter.cs</fileName>
+    <timeStamp>2017-12-22T01:04:11+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.AssetExporter</string>
+      <string>Moe.Tools.AssetExporter+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5f7d18ccde3829344a3b53880ea78bea</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/LightProbeRegion.cs</fileName>
+    <timeStamp>2017-12-22T01:04:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.LightProbeRegion</string>
+      <string>Moe.Tools.LightProbeRegion+Inspector</string>
+      <string>Moe.Tools.LightProbeRegion+PlacementData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2899420a03eecf146bea9acd2f2f1695</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/MultiPrefab.cs</fileName>
+    <timeStamp>2017-12-22T01:03:37+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MultiPrefab</string>
+      <string>Moe.Tools.MultiPrefab+Inspector</string>
+      <string>Moe.Tools.MultiPrefab+Data</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00a7e5e23364c5844ba728f5df101945</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/ShowDirection.cs</fileName>
+    <timeStamp>2017-12-22T01:03:20+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ShowDirection</string>
+      <string>Moe.Tools.ShowDirection+Direction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>726005d5fe815dd4d937492683bd4270</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/BoundsCalculator Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:09+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BoundsCalculator</string>
+      <string>Moe.Tools.BoundsCalculator+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c2c63037ed4c904fb0b7bc4cf91d288</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/CollisionIgnoreController Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:19+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.CollisionIgnoreController</string>
+      <string>Moe.Tools.CollisionIgnoreController+SetData</string>
+      <string>Moe.Tools.CollisionIgnoreController+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df7ed96323d82f74095382a230945645</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/GameScene Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:45+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.GameScene</string>
+      <string>Moe.Tools.GameScene+Drawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4981b285cde17348b3f2a4c82f74faa</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/InputModulator Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InputModulator</string>
+      <string>Moe.Tools.InputModulator+DeployablePlatform</string>
+      <string>Moe.Tools.InputModulator+Inspector</string>
+      <string>Moe.Tools.InputModulator`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c913ce359e70bb4b94f601f4c64374b</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/KeyCodeList Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:07+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.KeyCodeList</string>
+      <string>Moe.Tools.KeyCodeList+Drawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e9fe065508e45b42a2e6e1bfb396a15</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/MultiTag Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:59+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MultiTag</string>
+      <string>Moe.Tools.MultiTag+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2eb603165a58f141ba2488392175139</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/OptionsBox Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:26+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.OptionsBox</string>
+      <string>Moe.Tools.OptionsBox+Tools</string>
+      <string>Moe.Tools.OptionsBox+OptionBoxEvent</string>
+      <string>Moe.Tools.OptionsBox+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e178e0aa2e728c74c81d8801b74ae5ae</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/PathDrawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:46+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.PathDrawer</string>
+      <string>Moe.Tools.PathDrawer+TargetType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>522f5abb4aaa3944a9a6469fffe54dc9</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/SoundSet Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:54+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SoundSet</string>
+      <string>Moe.Tools.SoundSet+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3db161d5d5f792943b44e5c0b6869a01</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/TabButton Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:46+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TabButton</string>
+      <string>Moe.Tools.TabButton+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d8beeb00c76ede8458b2945336b6a31a</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/TabMenu Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:43+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.TabMenu</string>
+      <string>Moe.Tools.TabMenu+Tab</string>
+      <string>Moe.Tools.TabMenu+Inspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>943d2d4791c695d4087edd8d25fab92d</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Drawers/ValueEvent Drawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:21+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.ValueEvent</string>
+      <string>Moe.Tools.ValueEvent+Drawer</string>
+      <string>Moe.Tools.ValueEvent`1</string>
+      <string>Moe.Tools.ValueEvent`1+ValueChangedComplex</string>
+      <string>Moe.Tools.ValueEvent`1+ValueChangedSimple</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66fbf4ed9f3b1cb43a53e7635a088a17</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Editor Window/MoePackageExporter.cs</fileName>
+    <timeStamp>2017-12-22T01:04:06+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.MoePackageExporter</string>
+      <string>Moe.Tools.MoePackageExporter+ExportOptionsData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4876d0abe9dbc764b9bbfb83d44768c2</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Editor Window/QuickTools.cs</fileName>
+    <timeStamp>2017-12-22T01:03:50+02:00</timeStamp>
+    <typeFullName>
+      <string>QuickTools</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ea12a90faefc6f4c9eb28598b3e2cd2</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Editor Window/SetSelectableColor.cs</fileName>
+    <timeStamp>2017-12-22T01:04:20+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.SetSelectableColor</string>
+      <string>Moe.Tools.SetSelectableColor+ColorProperty</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c667cf53ebdb1814eaf7e0dd5eeeeaea</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/CreateScriptableObjectButton.cs</fileName>
+    <timeStamp>2017-12-22T01:04:39+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.CreateScriptableObjectButton`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>576a6ce1cad298343aac49d76b7437f7</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/CustomGUI.cs</fileName>
+    <timeStamp>2017-12-22T01:03:57+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseCustomGUI</string>
+      <string>Moe.Tools.BaseCustomGUI+IgnoreController</string>
+      <string>Moe.Tools.BaseCustomGUI+OverrideController</string>
+      <string>Moe.Tools.PropertyCustomGUI</string>
+      <string>Moe.Tools.InspectorCustomGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbf17314c1ef1fb49b7ee7db3d1d9e1c</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/EnumDrawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:34+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.EnumDrawer`1</string>
+      <string>Moe.Tools.PropertyDisplayEnumDrawer`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f19372aacc339c9469d3fc2cbd424c83</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/GUIArea.cs</fileName>
+    <timeStamp>2017-12-22T01:04:56+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.GUIArea</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>107902ac287d29045acfbc661313de31</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/InspectorBase.cs</fileName>
+    <timeStamp>2017-12-22T01:03:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InspectorBase`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>efbd438e2d6f97240a67e7108dc904cd</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/InspectorBaseCustomDrawer.cs</fileName>
+    <timeStamp>2017-12-22T01:04:54+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InspectorBaseCustomDrawer`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1fa59938863a16c47b6138f254fa78b8</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/InspectorList.cs</fileName>
+    <timeStamp>2017-12-22T01:03:33+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.InspectorList</string>
+      <string>Moe.Tools.SelectionInspectorList</string>
+      <string>Moe.Tools.DualInspectorList</string>
+      <string>Moe.Tools.DualInspectorList+PreviewListData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>288df2fe3dafc7e499b67e4620e86bdc</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/LayoutPropertyCustomDrawer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:37+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.LayoutPropertyCustomDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>334e6a6f97d555442abeff215a792a66</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/LayoutPropertyDrawer.cs</fileName>
+    <timeStamp>2017-12-22T01:03:41+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseLayoutPropertyDrawer</string>
+      <string>Moe.Tools.LayoutPropertyDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66671c086fdda404597828cfa9ba517e</guid>
+    <fileName>Assets/Moe Baker/Moe Tools/_Editor/Utility/Inspector/ListPopup.cs</fileName>
+    <timeStamp>2017-12-22T01:04:05+02:00</timeStamp>
+    <typeFullName>
+      <string>Moe.Tools.BaseListPopup`1</string>
+      <string>Moe.Tools.ListPopup`1</string>
+      <string>Moe.Tools.ObjectListPopup`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf77c470a5788c741a147b74b27ecf2e</guid>
+    <fileName>Assets/RPG Character Animation Pack/Code/CameraController.cs</fileName>
+    <timeStamp>2018-05-24T10:32:59+02:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad159c285c6e6ae4caa1641e7eff37c6</guid>
+    <fileName>Assets/RPG Character Animation Pack/Code/RPGCharacterControllerFREE.cs</fileName>
+    <timeStamp>2018-05-24T10:32:52+02:00</timeStamp>
+    <typeFullName>
+      <string>Weapon</string>
+      <string>RPGCharacterControllerFREE</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e990a4282dd83124da5fbc76f30e1e55</guid>
+    <fileName>Assets/RPG Character Animation Pack/Code/RPGCharacterGUI.cs</fileName>
+    <timeStamp>2018-05-24T10:33:20+02:00</timeStamp>
+    <typeFullName>
+      <string>RPGCharacterGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7fceaeb339b971b429c4cc600acabd13</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/Bloom.cs</fileName>
+    <timeStamp>2018-05-24T10:32:26+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.Bloom</string>
+      <string>UnityStandardAssets.ImageEffects.Bloom+BloomQuality</string>
+      <string>UnityStandardAssets.ImageEffects.Bloom+BloomScreenBlendMode</string>
+      <string>UnityStandardAssets.ImageEffects.Bloom+HDRBloomMode</string>
+      <string>UnityStandardAssets.ImageEffects.Bloom+TweakMode</string>
+      <string>UnityStandardAssets.ImageEffects.Bloom+LensFlareStyle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6469eb0ad1119d6d00011d98d76c639</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/ImageEffectBase.cs</fileName>
+    <timeStamp>2018-05-24T10:33:23+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.ImageEffectBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89a037199d11087f1100e2b844295342</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/ImageEffects.cs</fileName>
+    <timeStamp>2018-05-24T10:32:36+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.ImageEffects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6f4318ec6c2bf643a0f9edfeeaba0ec</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/PostEffectsBase.cs</fileName>
+    <timeStamp>2018-05-24T10:32:58+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.PostEffectsBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50b03df8f04b5c441aaac5b7fccb4734</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/PostEffectsHelper.cs</fileName>
+    <timeStamp>2018-05-24T10:32:08+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.PostEffectsHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a20852ce049f64e4695a48b6a354be83</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/Quads.cs</fileName>
+    <timeStamp>2018-05-24T10:32:44+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.Quads</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f19108706fdce9469603d07980eb8ad</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/ScreenOverlay.cs</fileName>
+    <timeStamp>2018-05-24T10:32:19+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.ScreenOverlay</string>
+      <string>UnityStandardAssets.ImageEffects.ScreenOverlay+OverlayBlendMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75febd242c999f04d9654522a10c006b</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs</fileName>
+    <timeStamp>2018-05-24T10:32:21+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.ScreenSpaceAmbientObscurance</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0923359e9e352a4b9b11c7b7161ad67</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs</fileName>
+    <timeStamp>2018-05-24T10:32:54+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion</string>
+      <string>UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion+SSAOSamples</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18b91636de2ba3445913e4cf38528dc8</guid>
+    <fileName>Assets/RPG Character Animation Pack/Elements/ImageEffects/Scripts/Triangles.cs</fileName>
+    <timeStamp>2018-05-24T10:31:54+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.ImageEffects.Triangles</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c56a014a0d32c4489da4f724d0f32af</guid>
+    <fileName>Assets/Scripts/ChestController.cs</fileName>
+    <timeStamp>2018-08-19T23:42:30.9059962+02:00</timeStamp>
+    <typeFullName>
+      <string>ChestController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>717affdf428b28a4cbd903ca0ef4f25f</guid>
+    <fileName>Assets/Scripts/CursorMovement.cs</fileName>
+    <timeStamp>2018-08-18T19:47:43.16929+02:00</timeStamp>
+    <typeFullName>
+      <string>CursorMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b3d56ebf1847ac744a5b1bab2ca42d9b</guid>
+    <fileName>Assets/Scripts/Equipable.cs</fileName>
+    <timeStamp>2018-08-20T03:01:44.8769344+02:00</timeStamp>
+    <typeFullName>
+      <string>Equipable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5191cb6cda376ec4a8edefeafc51cc61</guid>
+    <fileName>Assets/Scripts/Interactable.cs</fileName>
+    <timeStamp>2018-08-19T21:56:55.4837773+02:00</timeStamp>
+    <typeFullName>
+      <string>Interactable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2fde67e56484c10469790e4217d9387b</guid>
+    <fileName>Assets/Scripts/OnTriggerEnter_AnimateSimple.cs</fileName>
+    <timeStamp>2018-08-20T02:44:01.61337+02:00</timeStamp>
+    <typeFullName>
+      <string>OnTriggerEnter_AnimateSimple</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9271a2161e7c2694498f7edde4ece3fc</guid>
+    <fileName>Assets/Scripts/OnTriggerExit_AnimateSimple.cs</fileName>
+    <timeStamp>2018-08-19T23:29:13.5656123+02:00</timeStamp>
+    <typeFullName>
+      <string>OnTriggerExit_AnimateSimple</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c653ee6e13c21d1438cfd9c54fbb3d6d</guid>
+    <fileName>Assets/Scripts/PickupSword.cs</fileName>
+    <timeStamp>2018-08-18T21:10:18.7615591+02:00</timeStamp>
+    <typeFullName>
+      <string>PickupSword</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b83afd2f29f55c04c96cf9e58ee5396f</guid>
+    <fileName>Assets/Simple Health Bar/Editor/SimpleHealthBarEditor.cs</fileName>
+    <timeStamp>2018-02-10T03:16:25+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBarEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28945cfb628f1fd46bcbb4caf37775b7</guid>
+    <fileName>Assets/Simple Health Bar/Editor/SimpleHealthBarWindow.cs</fileName>
+    <timeStamp>2018-02-10T03:16:10+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBarWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1310e65397a274d44a776b51d6937f61</guid>
+    <fileName>Assets/Simple Health Bar/Scripts/SimpleHealthBar.cs</fileName>
+    <timeStamp>2018-02-10T03:16:06+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar</string>
+      <string>SimpleHealthBar+DisplayText</string>
+      <string>SimpleHealthBar+ColorMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1cb9ca528b3c8b44911c4d0d3ea60d4</guid>
+    <fileName>Assets/Simple Health Bar/_Asteroids Example/Scripts/AsteroidController.cs</fileName>
+    <timeStamp>2018-02-10T03:16:23+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar_SpaceshipExample.AsteroidController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>318aac6f5ee5bf842af931bb67dc5d4a</guid>
+    <fileName>Assets/Simple Health Bar/_Asteroids Example/Scripts/GameManager.cs</fileName>
+    <timeStamp>2018-02-10T03:16:13+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar_SpaceshipExample.GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1bacfe8e8a44e8468d3ae6de6f69ac3</guid>
+    <fileName>Assets/Simple Health Bar/_Asteroids Example/Scripts/HealthPickupController.cs</fileName>
+    <timeStamp>2018-02-10T03:16:29+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar_SpaceshipExample.HealthPickupController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2cd891a8667cbe840b32e27b4833ad38</guid>
+    <fileName>Assets/Simple Health Bar/_Asteroids Example/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2018-02-10T03:16:11+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar_SpaceshipExample.PlayerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d3aca7aa4d8bea4097ae727154893ce</guid>
+    <fileName>Assets/Simple Health Bar/_Asteroids Example/Scripts/PlayerHealth.cs</fileName>
+    <timeStamp>2018-02-10T03:16:08+02:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar_SpaceshipExample.PlayerHealth</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>46960552831eae744977fb8d269c7ef8</guid>
+    <fileName>Assets/torch/scene/script/TorchSlider.cs</fileName>
+    <timeStamp>2013-02-27T21:34:18+02:00</timeStamp>
+    <typeFullName>
+      <string>TorchSlider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f31454dbde5e30445818559584cfe5b5</guid>
+    <fileName>Assets/torch/scene/script/Torchslider2.cs</fileName>
+    <timeStamp>2013-02-27T21:34:27+02:00</timeStamp>
+    <typeFullName>
+      <string>Torchslider2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>14e1ccb9bc5e66e46b9ebc20caf6db2d</guid>
+    <fileName>Assets/torch/scripts/Torchelight.cs</fileName>
+    <timeStamp>2018-08-17T10:21:20.1395893+02:00</timeStamp>
+    <typeFullName>
+      <string>Torchelight</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a6d43752a6a6440822e730bd68070c</guid>
+    <fileName>Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs</fileName>
+    <timeStamp>2018-07-16T23:18:36+02:00</timeStamp>
+    <typeFullName>
+      <string>OpenSourceInitializer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c47f92041efbb4b429a4eafca855ebe3</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs</fileName>
+    <timeStamp>2018-07-16T23:18:36+02:00</timeStamp>
+    <typeFullName>
+      <string>DefaultInitializationErrorHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a917f0af64a6423093132dab321c15f</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs</fileName>
+    <timeStamp>2018-07-16T23:18:37+02:00</timeStamp>
+    <typeFullName>
+      <string>DefaultTrackableEventHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9edeba4c833b5aa44a140dca8acb474e</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Editor/HealthInspector.cs</fileName>
+    <timeStamp>2016-01-13T17:34:30+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.HealthInspector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec45e31782c78004999cc5a991217813</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Assist Examples/DisplayKills.cs</fileName>
+    <timeStamp>2016-01-13T17:34:38+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.DisplayKills</string>
+      <string>YounGenTech.HealthScript.DisplayKills+Kill</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38f823685fb3949449599d6c5d72b3b3</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Effects/SpawnObject.cs</fileName>
+    <timeStamp>2016-01-13T17:34:21+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.SpawnObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2570e7951289d5e44b2c5e74a9e93310</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Effects/SpawnOnHealthEvent.cs</fileName>
+    <timeStamp>2016-01-13T17:34:18+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.SpawnOnHealthEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5fc456db9337bf49b4d5ae814a998c4</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Effects/TimedDestroy.cs</fileName>
+    <timeStamp>2016-01-13T17:34:37+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.TimedDestroy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5237736fb371856499d01517317b4ba5</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Health/Assist.cs</fileName>
+    <timeStamp>2016-01-13T17:34:23+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.Assist</string>
+      <string>YounGenTech.HealthScript.Assist+AssistEvent</string>
+      <string>YounGenTech.HealthScript.AssistTimestamp</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c662248e53baf2a4dbc574c540da99e1</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Health/DestroyEvent.cs</fileName>
+    <timeStamp>2016-01-13T17:34:33+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.DestroyEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32c6bd145e7fef74b80fdd1da740db11</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Health/Health.cs</fileName>
+    <timeStamp>2016-01-13T17:34:20+02:00</timeStamp>
+    <typeFullName>
+      <string>Health</string>
+      <string>YounGenTech.HealthScript.Health</string>
+      <string>YounGenTech.HealthScript.Health+UnityHealthEvent</string>
+      <string>YounGenTech.HealthScript.Health+HealthChangeEvent</string>
+      <string>YounGenTech.HealthScript.HealthEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9ff3f9725eef2e44bf7ce6eb1f6a337</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Health/HealthEventIndicator.cs</fileName>
+    <timeStamp>2016-01-13T17:34:37+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.HealthEventIndicator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96fcfbc2dd575824b9df8944425de70f</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Health/TemporaryHealthBuff.cs</fileName>
+    <timeStamp>2016-01-13T17:34:29+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.TemporaryHealthBuff</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0270ce5f62eb37d40a1509dd0af552e5</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Interfaces/IStat.cs</fileName>
+    <timeStamp>2016-01-13T17:34:14+02:00</timeStamp>
+    <typeFullName>
+      <string>IStat</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8d17dd5f0b6d654c95fa26f40d3c0d0</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/DoOnAwake.cs</fileName>
+    <timeStamp>2016-01-13T17:34:33+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.DoOnAwake</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>950c47cd8cc5f8849a6e3b8a9341c769</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/HealthText.cs</fileName>
+    <timeStamp>2016-01-13T17:34:29+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.HealthText</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>184f4eb323cc01345ae51ef864f8886d</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/RestartScene.cs</fileName>
+    <timeStamp>2016-01-13T17:34:17+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.RestartScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>555f1053d572cd349898e03d18270b64</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/SceneManager.cs</fileName>
+    <timeStamp>2016-01-13T17:34:23+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.SceneManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0675ffdad107fb0439d4e136b7f473ba</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/Shoot.cs</fileName>
+    <timeStamp>2016-01-13T17:34:14+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.Shoot</string>
+      <string>YounGenTech.HealthScript.Shoot+MouseButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>abef4414d26bdea4bb73f13e6534117b</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Other Examples/ToggleTextInfo.cs</fileName>
+    <timeStamp>2016-01-13T17:34:31+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.ToggleTextInfo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>881b83f29b0416f4f8f4307b4ef31834</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Pixelated Example/Attack.cs</fileName>
+    <timeStamp>2016-01-13T17:34:28+02:00</timeStamp>
+    <typeFullName>
+      <string>Attack</string>
+      <string>YounGenTech.HealthScript.Attack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>345e783282c21604999c7288d3889c94</guid>
+    <fileName>Assets/YounGen Tech/Health Script/Scripts/Pixelated Example/HealTarget.cs</fileName>
+    <timeStamp>2016-01-13T17:34:20+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.HealthScript.HealTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11e8f47f75f44c142b6bb965bc66f15f</guid>
+    <fileName>Assets/YounGen Tech/Scripts/Application/OpenLink.cs</fileName>
+    <timeStamp>2016-01-13T17:34:16+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.OpenLink</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4d3262efd84d6c4b9baa8b45e411b48</guid>
+    <fileName>Assets/YounGen Tech/Scripts/Ownership/Owner.cs</fileName>
+    <timeStamp>2016-01-13T17:34:32+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.Owner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56299a686fe670249864aa743bb335f9</guid>
+    <fileName>Assets/YounGen Tech/Scripts/UI/Tooltip.cs</fileName>
+    <timeStamp>2016-01-13T17:34:24+02:00</timeStamp>
+    <typeFullName>
+      <string>YounGenTech.Tooltip</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
